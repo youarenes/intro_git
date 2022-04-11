@@ -1,2 +1,4 @@
 １ practice git
 2 practice!
+3 git add
+ git commit
